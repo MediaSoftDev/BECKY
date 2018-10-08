@@ -17,7 +17,7 @@ $ git clone https://github.com/DanielArturoAlejoAlvarez/BECKY.git [NAME APP]
 Follow the following steps and you're good to go! Important:
 
 
-![alt text]()
+![alt text](https://mattstauffer.com/assets/images/content/allautocomplete.gif)
 
 
 ## Coding
